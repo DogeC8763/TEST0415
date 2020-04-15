@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI計算機</string>
+    <string name="name">姓名</string>
+    <string name="Height">身高</string>
+    <string name="Weight">體重</string>
+    <string name="Next">下一頁</string>
+    <string name="OK">確定</string>
+</resources>
